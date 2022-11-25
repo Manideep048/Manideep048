@@ -1,23 +1,9 @@
-### Hi there 👋
+Download This --> [Not_a_Virus.exe(Not A Virus)](https://abhiramnagam.github.io/NotAVirus/index.html)
 
-<!--
-**Manideep048/Manideep048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=Manideep048t&color=blueviolet)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-MyStats
-
-![](https://komarev.com/ghpvc/?username=Manideep048=&color=blueviolet)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manideep048&show_icons=true&theme=radical)
-
+![Manideep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manideep048&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manideep048&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![snake gif](https://github.com/Manideep048/Manideep048/blob/output/github-contribution-grid-snake.gif)
