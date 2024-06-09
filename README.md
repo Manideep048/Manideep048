@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Cloud Services, Power BI & DSA**
 
+- 📫 How to reach me **manideepguduru76@gmail.com**
+
 - ⚡ Fun fact **Life is a mirror and will reflect back to the thinker what he thinks into it.**
 
 <h3 align="left">Connect with me:</h3>
