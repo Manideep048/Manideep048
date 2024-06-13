@@ -32,7 +32,7 @@
 <p><a href="https://www.buymeacoffee.com/manideepguduru"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="manideepguduru" /></a></p><br><be>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2></h2>
 <br>
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=manideep048&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
