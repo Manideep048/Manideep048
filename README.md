@@ -42,3 +42,6 @@
 
 </div>
 <br/><br/>
+
+
+![Snake animation](https://raw.githubusercontent.com/manideep048/manideep048/output/github-contribution-grid-snake-dark.svg)
